@@ -2,3 +2,17 @@
 
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 afs.googlesyndication.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice.hicloud.com
